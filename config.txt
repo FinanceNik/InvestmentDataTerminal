@@ -1,4 +1,7 @@
 # These are the assets that are to be included
 ##############################################
 AAPL
-GE
+SHOP
+AMD
+AMZN
+BABA
