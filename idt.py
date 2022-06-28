@@ -1,4 +1,3 @@
-import random
 import time
 from datetime import date
 import pandas_datareader.data as web 
